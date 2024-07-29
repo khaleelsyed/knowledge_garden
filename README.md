@@ -4,6 +4,6 @@ Similar to a lot of the `my-degree`/`my-cs-degree` style projects found around. 
 
 ## Contents
 
-|Topics|
---------
+| Topics            |
+| ----------------- |
 | [Go](go/index.md) |
