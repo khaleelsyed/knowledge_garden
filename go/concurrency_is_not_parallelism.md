@@ -31,5 +31,6 @@
 ## Appendix
 
 <ol type="A">
+  <li><a href="https://go.dev/blog/waza-talk">Blog Post</a></li>
   <li><a href="https://go.dev/talks/2012/waza.slide">Slide Deck</a></li>
 </ol>
